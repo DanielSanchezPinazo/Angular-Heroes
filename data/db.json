@@ -13,7 +13,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Bruce Wayne",
       "first_appearance": "Detective Comics #27",
-      "characters": "Bruce Wayne"
+      "characters": "Bruce Wayne",
+      "alt_img": null
     },
     {
       "id": "dc-superman",
@@ -165,7 +166,17 @@
       "publisher": "Marvel Comics",
       "alter_ego": "Norrin Radd",
       "first_appearance": "The Fantastic Four #48",
-      "characters": "Norrin Radd"
+      "characters": "Norrin Radd",
+      "alt_img": null
+    },
+    {
+      "id": "al5chQz",
+      "superhero": "Raphael",
+      "publisher": "DCComics",
+      "alter_ego": "Raphael",
+      "first_appearance": "En una alcantarilla",
+      "characters": "Raphael",
+      "alt_img": "https://toystnt.com/pictures/c4d287c5443361e717ac24e7284d13ab.jpg"
     }
   ]
 }
